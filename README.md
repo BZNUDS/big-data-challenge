@@ -11,6 +11,8 @@ My Amazon RDS Database "rdsdb" can be found at https://us-east-2.console.aws.ama
 
 My SQL Querries can be found at https://github.com/BZNUDS/big-data-challenge/blob/main/SQL%20querries.sql
 
+I also added a Supporting Evicedence .xlsx as well as .docx (which includes screens shots) to show that I discovered "the size of the dataframe by outputting the number of rows in it". I then correlated the totals between PgAdmin SQL querries Counts and CoLab Table Counts. Files can be found at https://github.com/BZNUDS/big-data-challenge/tree/main/level-1
+
 
 
 For this Homework Assignment, I created a new repository for this project called big-data-challenge and then cloned the new repository to my computer.
