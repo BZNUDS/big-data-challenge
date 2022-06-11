@@ -1,9 +1,6 @@
 # My big-data-challenge Homework 
 aka Big Data Homework #22 - "Alexa, can you handle big data?"
 
-GRADER PLEASE NOTE: I submitted to get in the grading que. I heard the graders have lots to do and I don't want to push my final homework assignment at the last minute so they don't get more overwheled the last couple of days. I still need to copy over my colab file without the passowrd for the Amazon 'Wireless' .ipynb. It should be completed by 061222 at the latest. Feel free to ask if you have questions.   
-
-
 
 I uploaded my code and associated file to the following location on GitHub: https://github.com/BZNUDS/big-data-challenge
 
@@ -11,6 +8,8 @@ My Amazon S3 Buucket "bigdatas3v2public" can be found at https://s3.console.aws.
 
 My Amazon RDS Database "rdsdb" can be found at https://us-east-2.console.aws.amazon.com/rds/home?region=us-east-2#databases:
 
+
+My SQL Querries can be found at https://github.com/BZNUDS/big-data-challenge/blob/main/SQL%20querries.sql
 
 
 
